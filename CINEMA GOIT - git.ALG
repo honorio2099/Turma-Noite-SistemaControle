@@ -12,7 +12,7 @@ procedimento cabecalho()
 inicio
    limpatela
    Escreval("======================================")
-   Escreval("|        Cinema   Go-It              |")
+   Escreval("|        Cinema Instituto Go-It              |")
    Escreval("======================================")
 fimprocedimento
 
